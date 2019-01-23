@@ -1,5 +1,7 @@
 # Docker in Docker for Insecure Registry
 
+This `Dockerfile` is for setting insecure registry easily.
+
 
 ## Getting Started
 
